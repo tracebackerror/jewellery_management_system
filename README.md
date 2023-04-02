@@ -1,0 +1,1 @@
+# jewellery_management_system
