@@ -1,0 +1,1 @@
+web: gunicorn jewelryshop.wsgi:application --log-file -

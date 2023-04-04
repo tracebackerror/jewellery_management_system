@@ -1,1 +1,1 @@
-# jewellery_management_system
+# django-jewelry-shop-main
